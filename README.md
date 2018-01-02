@@ -1,2 +1,2 @@
 # testingit
-Testing it ...
+This is just my test of GitHub.
